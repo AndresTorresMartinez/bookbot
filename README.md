@@ -1,6 +1,5 @@
 # BookBot
 > **Note:** This is my first project for boot.dev.
-# BookBot
 
 BookBot is a simple Python project that analyzes text files (books) to provide word and character statistics.
 
